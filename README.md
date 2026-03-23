@@ -29,7 +29,7 @@ This project focuses on analyzing ecommerce sales data using **Python, SQL, and 
 
 ## 🔹 Dashboard
 
-Dashboard%20Preview.png
+[Dashboard%20Preview.png](https://github.com/SubhajitKundu-tech/Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Preview.png)
 
 ## 🔹 Files Included
 
