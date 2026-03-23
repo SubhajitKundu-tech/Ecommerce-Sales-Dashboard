@@ -29,7 +29,7 @@ This project focuses on analyzing ecommerce sales data using **Python, SQL, and 
 
 ## 🔹 Dashboard
 
-![Dashboard](Dashboard Preview.png)
+Dashboard Preview.png
 
 ## 🔹 Files Included
 
